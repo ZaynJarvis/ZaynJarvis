@@ -13,13 +13,6 @@ project status kept visible.
 database for AI agents: memory, resources, skills, and provenance behind a
 `viking://` filesystem. Upstream project by the Volcengine team; I contribute there.
 
-## New
-
-**[Trackpad Studio](https://canvas.zaynjarvis.com)** — a macOS app that turns the
-trackpad into a pressure-aware multi-touch canvas: absolute-position finger drawing,
-force-driven ink, unified pinch+pan, and a gram-scale party trick.
-[Source](https://github.com/ZaynJarvis/trackpad-studio) · Swift/AppKit · MIT
-
 ## Selected work
 
 | | | |
